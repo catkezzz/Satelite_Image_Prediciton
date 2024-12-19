@@ -1,0 +1,4 @@
+URL Dataset: https://drive.google.com/drive/folders/1TDfrvZQJM8XWciHbt9XmH05hQYPKVq4M?usp=sharing
+URL Deployment: https://huggingface.co/spaces/ckezzz/satelite_image_prediction
+URL Model: https://drive.google.com/file/d/1NpXVB4p-vxs8SwXPS62_rlz_s9u17KTS/view?usp=sharing
+
